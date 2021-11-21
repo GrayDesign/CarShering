@@ -14,8 +14,6 @@
     --menu-background: #00000066;
     --font-nunito: 'Nunito Sans', sans-serif;
     --font-open: 'Open Sans', sans-serif;
-    --box-szhadow-red: #FF00004D;
-    --box-szhadow-white: #FFFFFF29;
 }
 
 body {
@@ -36,9 +34,14 @@ body {
     position: absolute;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     bottom: calc(-55px / 2);
     margin-left: calc(100vw / 2 - 27px);
     box-shadow: 0 3px 6px var(--box-szhadow-red);
+=======
+    bottom: calc(-55px/2);
+    margin-left: calc(100vw/2 - 27px);
+>>>>>>> parent of ee2f37e (Add section Blog)
 
 }
 
@@ -179,7 +182,6 @@ body {
     text-decoration: none;
     font-weight: 700;
     margin: 10px;
-    box-shadow: 0 3px 6px var(--box-szhadow-red);
 }
 
 .banner-btn-light {
@@ -195,10 +197,12 @@ body {
     text-decoration: none;
     font-weight: 800;
     margin: 10px;
-    box-shadow: 0 3px 6px var(--box-szhadow-white);
 }
+<<<<<<< HEAD
 
 /*ponizej cala sekcjia Blog*/
 
 
 
+=======
+>>>>>>> parent of ee2f37e (Add section Blog)
